@@ -37,5 +37,3 @@ The system:
 2. Displays live readings
 3. Activates alerts above threshold temperature
 
-## Author
-Your Name
